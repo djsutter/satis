@@ -1,0 +1,33 @@
+{
+    "packages": {
+        "duncan/pre_breadcrumbs": {
+            "dev-main": {
+                "name": "duncan/pre_breadcrumbs",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/djsutter/pre_breadcrumbs.git",
+                    "reference": "2c7788b98927a19a8745aba5e33eab1910dad016"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/djsutter/pre_breadcrumbs/zipball/2c7788b98927a19a8745aba5e33eab1910dad016",
+                    "reference": "2c7788b98927a19a8745aba5e33eab1910dad016",
+                    "shasum": ""
+                },
+                "time": "2022-10-19T22:29:04+00:00",
+                "default-branch": true,
+                "type": "drupal-custom-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "description": "Prepend Breadcrumbs",
+                "support": {
+                    "source": "https://github.com/djsutter/pre_breadcrumbs/tree/main",
+                    "issues": "https://github.com/djsutter/pre_breadcrumbs/issues"
+                }
+            }
+        }
+    }
+}
