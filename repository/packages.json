@@ -4,7 +4,7 @@
             "sha1": "4934c6ec9a50b2773520d0e7bafc27ec67339a47"
         }
     },
-    "metadata-url": "/djsutter/satis/p2/%package%.json",
+    "metadata-url": "/p2/%package%.json",
     "available-packages": [
         "duncan/pre_breadcrumbs"
     ]
