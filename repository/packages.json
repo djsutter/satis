@@ -29,9 +29,6 @@
                 }
             }
         }
-    },
-    "available-packages": [
-        "duncan/pre_breadcrumbs"
-    ]
+    }
 }
 
