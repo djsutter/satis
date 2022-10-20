@@ -30,7 +30,6 @@
             }
         }
     },
-    "metadata-url": "/djsutter/satis/p2/%package%.json",
     "available-packages": [
         "duncan/pre_breadcrumbs"
     ]
