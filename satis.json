@@ -1,8 +1,9 @@
 {
     "name": "pco-bcp/satis",
-    "homepage": "http://raw.githubusercontent.com/djsutter/satis",
+    "homepage": "http://raw.githubusercontent.com/djsutter/satis/main/repository",
     "repositories": [
         { "type": "vcs", "url": "https://github.com/djsutter/pre_breadcrumbs" }
     ],
-    "require-all": true
+    "require-all": true,
+    "output-dir": "repository"
 }

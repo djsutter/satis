@@ -1,7 +1,8 @@
 {
+    "packages": [],
     "includes": {
-        "include/all$4934c6ec9a50b2773520d0e7bafc27ec67339a47.json": {
-            "sha1": "4934c6ec9a50b2773520d0e7bafc27ec67339a47"
+        "include/all$e06b2df3a4ee903a721391e5b29e70f8c5bec058.json": {
+            "sha1": "e06b2df3a4ee903a721391e5b29e70f8c5bec058"
         }
     },
     "metadata-url": "/djsutter/satis/main/repository/p2/%package%.json",

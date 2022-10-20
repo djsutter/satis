@@ -24,7 +24,7 @@
                 ],
                 "description": "Prepend Breadcrumbs",
                 "support": {
-                    "source": "https://github.com/djsutter/pre_breadcrumbs/tree/main",
+                    "source": "https://github.com/djsutter/pre_breadcrumbs/tree/1.0.0",
                     "issues": "https://github.com/djsutter/pre_breadcrumbs/issues"
                 }
             }
